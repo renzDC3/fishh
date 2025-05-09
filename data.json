@@ -1,6 +1,6 @@
 [
   { "name": "Alumahan", "price": 375.00, "weight": "per 500g", "image": "images/alumahan.jpg" },
-  { "name": "Bangus", "price": 356.50, "weight": "per per kg", "image": "images/bangus.jpg" },
+  { "name": "Bangus", "price": 212.250, "weight": "per per kg", "image": "images/bangus.jpg" },
   { "name": "Asohos", "price": 425.00, "weight": "per 500g", "image": "images/asohos.jpg" },
   { "name": "Bakoko", "price": 745.00, "weight": "per kg", "image": "images/bakoko.jpg" },
   { "name": "Bitilya", "price": 395.00, "weight": "per 500g", "image": "images/bitilya.jpg" },
