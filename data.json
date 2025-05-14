@@ -9,7 +9,7 @@
     "weight": "per 500g",
     "category": "fish",
     "image": "images/alumahan.jpg"
-    "best_sale": true
+    "best_sale": true;
   },
   {
     "name": "Arosep Seaweed",
@@ -22,7 +22,7 @@
     "weight": "per 500g",
     "category": "seaweed",
     "image": "images/Arosep.jpg"
-    "best_sale": true
+    "best_sale": true;
   },
   {
     "name": "Bangus",
