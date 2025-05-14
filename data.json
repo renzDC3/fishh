@@ -117,212 +117,330 @@
     "weight": "per 500g",
     "category": "fish",
     "image": "images/galunggong.jpg" },
-  {  "name": "Gindara",
+  {   "name": "Gindara",
     "tagalog_name": "Gindara",
     "english_name": "Black Cod",
     "scientific_name": "Anoplopoma fimbria",
-    "description": "Known for its rich, buttery flavor and high oil content, perfect for grilling or broiling."
+    "description": "A prized fish known for its buttery texture and rich flavor, often used in Japanese miso recipes.",
+    "price": 245.00,
+    "last_price": 240.00,
+    "weight": "per kg",
+    "category": "fish",
+    "image": "images/gindara.jpg"
   },
   {
     "name": "Kuhol",
     "tagalog_name": "Kuhol",
     "english_name": "Golden Apple Snail",
     "scientific_name": "Pomacea canaliculata",
-    "description": "A freshwater snail often used in Filipino dishes like ginataang kuhol (snails in coconut milk)."
+    "description": "A freshwater snail often cooked in coconut milk (ginataang kuhol), popular in Filipino cuisine.",
+    "price": 155.00,
+    "last_price": 165.00,
+    "weight": "per kg",
+    "category": "shellfish",
+    "image": "images/Kuhol.jpg"
   },
   {
     "name": "Hasa Hasa",
     "tagalog_name": "Hasa Hasa",
     "english_name": "Short Mackerel",
     "scientific_name": "Rastrelliger brachysoma",
-    "description": "Mildly flavored fish typically grilled or fried, commonly found in Philippine markets."
+    "description": "A common Filipino fish known for its firm flesh, perfect for frying or in paksiw dishes.",
+    "price": 345.00,
+    "last_price": 325.00,
+    "weight": "per 500g",
+    "category": "fish",
+    "image": "images/hasa-hasa.jpg"
   },
   {
     "name": "Halaan Small/Medium",
     "tagalog_name": "Halaan",
     "english_name": "Clam (Small/Medium)",
-    "scientific_name": "Meretrix meretrix",
-    "description": "Bivalve shellfish known for its sweet taste, often used in soups and seafood stews."
+    "scientific_name": "Ruditapes philippinarum",
+    "description": "A popular shellfish used in soups like 'halaan sa luya' and seafood pasta dishes.",
+    "price": 349.00,
+    "last_price": 330.00,
+    "weight": "per kg",
+    "category": "shellfish",
+    "image": "images/Halaan-SmallMedium.jpg"
   },
   {
     "name": "Halaan Large",
     "tagalog_name": "Halaan",
     "english_name": "Clam (Large)",
-    "scientific_name": "Meretrix meretrix",
-    "description": "Larger variant of Halaan with more meat, best for steaming or grilling."
+    "scientific_name": "Ruditapes philippinarum",
+    "description": "Larger variant of halaan, known for its tender meat and savory broth when cooked.",
+    "price": 429.00,
+    "last_price": 420.00,
+    "weight": "per kg",
+    "category": "shellfish",
+    "image": "images/Halaan-Large.jpg"
   },
   {
     "name": "Lapu-Lapu Black Genuine",
-    "tagalog_name": "Lapu-Lapu Itim",
-    "english_name": "Black Grouper",
-    "scientific_name": "Mycteroperca bonaci",
-    "description": "Highly prized fish with firm texture, commonly steamed or cooked with soy sauce."
+    "tagalog_name": "Lapu-Lapu",
+    "english_name": "Grouper (Black)",
+    "scientific_name": "Epinephelus spp.",
+    "description": "A premium reef fish with firm flesh, often steamed or fried whole in festive Filipino meals.",
+    "price": 1250.00,
+    "last_price": 1225.00,
+    "weight": "per kg",
+    "category": "fish",
+    "image": "images/lapu-lapu-black-genuine.jpg"
   },
   {
     "name": "Lato Seaweed",
     "tagalog_name": "Lato",
     "english_name": "Sea Grapes",
     "scientific_name": "Caulerpa lentillifera",
-    "description": "A type of edible seaweed that resembles green caviar, served fresh as salad."
+    "description": "A type of edible green seaweed known for its pop-in-the-mouth texture, commonly eaten with vinegar.",
+    "price": 179.00,
+    "last_price": 185.00,
+    "weight": "per 500g",
+    "category": "seaweed",
+    "image": "images/lato-seaweed.jpg"
   },
   {
     "name": "Matambaka",
     "tagalog_name": "Matambaka",
     "english_name": "Bigeye Scad",
     "scientific_name": "Selar crumenophthalmus",
-    "description": "Commonly fried or dried, this fish is flavorful and rich in omega-3."
+    "description": "A versatile fish often dried, fried, or grilled in local households across the Philippines.",
+    "price": 645.00,
+    "last_price": 630.00,
+    "weight": "per kg",
+    "category": "fish",
+    "image": "images/matambaka.jpg"
   },
   {
     "name": "Maya Maya",
     "tagalog_name": "Maya Maya",
     "english_name": "Red Snapper",
     "scientific_name": "Lutjanus campechanus",
-    "description": "Delicate and sweet-tasting white fish often used in sinigang or grilled whole."
+    "description": "A beautiful red fish with mild, flaky flesh; ideal for sinigang or grilled preparations.",
+    "price": 1275.00,
+    "last_price": 1250.00,
+    "weight": "per kg",
+    "category": "fish",
+    "image": "images/maya-maya.jpg"
   },
   {
-    "name": "Oysters, Closed Full Shell",
-    "tagalog_name": "Talaba (Sarado)",
-    "english_name": "Oysters (Closed Shell)",
-    "scientific_name": "Crassostrea iredalei",
-    "description": "Whole oysters perfect for grilling or baking; requires shucking before eating."
-  },
-  {
-    "name": "Oysters, Open Half Shell",
-    "tagalog_name": "Talaba (Bukás)",
-    "english_name": "Oysters (Half Shell)",
-    "scientific_name": "Crassostrea iredalei",
-    "description": "Ready-to-eat oysters best served raw with vinegar or lemon."
-  },
-  {
-    "name": "Pampano",
-    "tagalog_name": "Pampano",
-    "english_name": "Pomfret",
-    "scientific_name": "Trachinotus blochii",
-    "description": "Silvery fish with a delicate taste, popular for frying or grilling whole."
+  
+    "image": "images/pampano.jpg"
   },
   {
     "name": "Salay Ginto",
     "tagalog_name": "Salay Ginto",
-    "english_name": "Yellowtail Scad",
-    "scientific_name": "Atule mate",
-    "description": "Common fish known for its lean meat and light flavor, ideal for frying or tinapa."
+    "english_name": "Golden Threadfin Bream",
+    "scientific_name": "Nemipterus virgatus",
+    "description": "A golden-hued fish ideal for frying and sweet and sour dishes.",
+    "price": 285.00,
+    "last_price": 270.00,
+    "weight": "per 500g",
+    "category": "fish",
+    "image": "images/salay-ginto.jpg"
   },
   {
     "name": "Samaral",
     "tagalog_name": "Samaral",
-    "english_name": "Rabbitfish",
-    "scientific_name": "Siganus fuscescens",
-    "description": "Mild and slightly sweet fish, often cooked with coconut milk or grilled."
+    "english_name": "Spinefoot Fish",
+    "scientific_name": "Siganus spp.",
+    "description": "A reef fish with soft white flesh, commonly grilled or used in regional recipes.",
+    "price": 375.00,
+    "last_price": 380.00,
+    "weight": "per 500g",
+    "category": "fish",
+    "image": "images/samaral.jpg"
   },
   {
     "name": "Sapsap",
     "tagalog_name": "Sapsap",
-    "english_name": "Slipmouth",
-    "scientific_name": "Leiognathus equulus",
-    "description": "Flat, thin fish ideal for drying or pan-frying with simple seasoning."
+    "english_name": "Slipmouth Fish",
+    "scientific_name": "Leiognathus spp.",
+    "description": "A small flat fish known for its soft meat, usually fried or used in escabeche.",
+    "price": 245.00,
+    "last_price": 235.00,
+    "weight": "per 500g",
+    "category": "fish",
+    "image": "images/sapsap.jpg"
   },
   {
     "name": "Shrimp Jumbo",
     "tagalog_name": "Hipon Jumbo",
-    "english_name": "Jumbo Shrimp",
+    "english_name": "Shrimp (Jumbo)",
     "scientific_name": "Penaeus monodon",
-    "description": "Large shrimp variety known for its juicy texture, best grilled or sautéed."
+    "description": "Large, juicy shrimps perfect for grilling, sinigang, or tempura.",
+    "price": 725.00,
+    "last_price": 700.00,
+    "weight": "per 500g",
+    "category": "crustacean",
+    "image": "images/shrimp-jumbo.jpg"
   },
   {
     "name": "Shrimp Large",
     "tagalog_name": "Hipon Malaki",
-    "english_name": "Large Shrimp",
+    "english_name": "Shrimp (Large)",
     "scientific_name": "Penaeus monodon",
-    "description": "Flavorful and versatile shrimp used in a variety of dishes like sinigang or tempura."
+    "description": "Flavorful large shrimps ideal for stir-fries, stews, or grilling.",
+    "price": 465.00,
+    "last_price": 455.00,
+    "weight": "per 500g",
+    "category": "crustacean",
+    "image": "images/shrimp-large.jpg"
   },
   {
     "name": "Shrimp Small",
     "tagalog_name": "Hipon Maliit",
-    "english_name": "Small Shrimp",
+    "english_name": "Shrimp (Small)",
     "scientific_name": "Metapenaeus spp.",
-    "description": "Common shrimp variety ideal for sauces, stews, or omelets."
+    "description": "Smaller shrimps commonly used in soups, sinigang, or tortang hipon.",
+    "price": 725.00,
+    "last_price": 715.00,
+    "weight": "per 500g",
+    "category": "crustacean",
+    "image": "images/shrimp-small.jpg"
   },
   {
     "name": "Squid Baby",
-    "tagalog_name": "Pusit Baby",
+    "tagalog_name": "Pusit Bata",
     "english_name": "Baby Squid",
     "scientific_name": "Loligo spp.",
-    "description": "Small squid often sautéed or cooked adobo-style; tender and flavorful."
+    "description": "Small squids great for adobo, fried dishes, or inihaw na pusit.",
+    "price": 725.00,
+    "last_price": 705.00,
+    "weight": "per kg",
+    "category": "cephalopod",
+    "image": "images/SquidBaby.jpg"
   },
   {
     "name": "Squid Large",
     "tagalog_name": "Pusit Malaki",
     "english_name": "Large Squid",
-    "scientific_name": "Loligo spp.",
-    "description": "Meaty squid perfect for stuffing or grilling; has a firm bite and rich flavor."
+    "scientific_name": "Sepioteuthis lessoniana",
+    "description": "Thick-fleshed squid excellent for stuffing and grilling.",
+    "price": 725.00,
+    "last_price": 735.00,
+    "weight": "per kg",
+    "category": "cephalopod",
+    "image": "images/SquidLarge.jpg"
   },
   {
     "name": "Squid Medium",
     "tagalog_name": "Pusit Katamtaman",
     "english_name": "Medium Squid",
-    "scientific_name": "Loligo spp.",
-    "description": "Medium-sized squid used in many local dishes, ideal for frying or adobo."
+    "scientific_name": "Sepioteuthis spp.",
+    "description": "Medium-sized squid used in traditional Filipino dishes like adobong pusit.",
+    "price": 725.00,
+    "last_price": 720.00,
+    "weight": "per kg",
+    "category": "cephalopod",
+    "image": "images/SquidMedium.jpg"
   },
   {
     "name": "Tahong Small",
     "tagalog_name": "Tahong Maliit",
-    "english_name": "Small Mussels",
+    "english_name": "Mussels (Small)",
     "scientific_name": "Perna viridis",
-    "description": "Green-lipped mussels perfect for soups or grilled with cheese and garlic."
+    "description": "Small green mussels often steamed or cooked in soup with ginger and lemongrass.",
+    "price": 425.00,
+    "last_price": 410.00,
+    "weight": "per kg",
+    "category": "shellfish",
+    "image": "images/tahong-small.jpg"
   },
   {
     "name": "Tahong Medium",
     "tagalog_name": "Tahong Katamtaman",
-    "english_name": "Medium Mussels",
+    "english_name": "Mussels (Medium)",
     "scientific_name": "Perna viridis",
-    "description": "Versatile shellfish used in various Filipino dishes like tinola or baked tahong."
+    "description": "Medium-sized green mussels commonly used in baked tahong or seafood stews.",
+    "price": 239.00,
+    "last_price": 229.00,
+    "weight": "per kg",
+    "category": "shellfish",
+    "image": "images/tahong-medium.jpg"
   },
   {
     "name": "Tahong Large",
     "tagalog_name": "Tahong Malaki",
-    "english_name": "Large Mussels",
+    "english_name": "Mussels (Large)",
     "scientific_name": "Perna viridis",
-    "description": "Best for hearty seafood recipes, these large mussels are rich and chewy."
+    "description": "Large green mussels perfect for grilling, baking, or seafood platters.",
+    "price": 269.00,
+    "last_price": 255.00,
+    "weight": "per kg",
+    "category": "shellfish",
+    "image": "images/tahong-large.jpg"
   },
   {
     "name": "Tawilis",
     "tagalog_name": "Tawilis",
     "english_name": "Freshwater Sardine",
     "scientific_name": "Sardinella tawilis",
-    "description": "Endemic to Taal Lake, often fried until crispy and served with vinegar dip."
+    "description": "The only freshwater sardine in the world, found in Taal Lake. Usually fried and dipped in vinegar.",
+    "price": 165.00,
+    "last_price": 155.00,
+    "weight": "per 500g",
+    "category": "fish",
+    "image": "images/tawilis.jpg"
   },
   {
     "name": "Tilapia Medium/Large",
     "tagalog_name": "Tilapia",
-    "english_name": "Tilapia",
+    "english_name": "Tilapia (Medium/Large)",
     "scientific_name": "Oreochromis niloticus",
-    "description": "Popular freshwater fish that's affordable and delicious, commonly fried or grilled."
+    "description": "A staple freshwater fish in Filipino homes, best when grilled or cooked in sinigang.",
+    "price": 245.00,
+    "last_price": 235.00,
+    "weight": "per kg",
+    "category": "fish",
+    "image": "images/tilapia-medium-large.jpg"
   },
   {
-    "name": "Tiger Prawns Jumbo ",
+    "name": "Tiger Prawns Jumbo",
     "tagalog_name": "Sugpo Jumbo",
-    "english_name": "Jumbo Tiger Prawns",
+    "english_name": "Tiger Prawns (Jumbo)",
     "scientific_name": "Penaeus monodon",
-    "description": "Luxurious prawns ideal for grilling or seafood platters; sweet and juicy meat."
+    "description": "Large tiger prawns ideal for grilling, sizzling plates, and seafood platters.",
+    "price": 1895.00,
+    "last_price": 1850.00,
+    "weight": "per kg",
+    "category": "crustacean",
+    "image": "images/TigerPrawnsJ.jpg"
   },
   {
-    "name": "Tiger Prawns XJumbo ",
+    "name": "Tiger Prawns XJumbo",
     "tagalog_name": "Sugpo Extra Jumbo",
-    "english_name": "Extra Jumbo Tiger Prawns",
+    "english_name": "Tiger Prawns (Extra Jumbo)",
     "scientific_name": "Penaeus monodon",
-    "description": "Extra-large prawns prized for their meatiness, often grilled or buttered."
+    "description": "Extra large prawns with firm meat, perfect for gourmet seafood meals.",
+    "price": 1995.00,
+    "last_price": 1970.00,
+    "weight": "per kg",
+    "category": "crustacean",
+    "image": "images/TigerPrawnsXJ.jpg"
   },
   {
-    "name": "Ulang / River Prawns ",
+    "name": "Ulang / River Prawns",
     "tagalog_name": "Ulang",
-    "english_name": "River Prawns",
+    "english_name": "Freshwater River Prawns",
     "scientific_name": "Macrobrachium rosenbergii",
-    "description": "Freshwater prawn with a firm, sweet taste, ideal for sinigang or grilled."
+    "description": "Large freshwater prawns known for their sweet meat, often grilled or cooked in coconut milk.",
+    "price": 1745.00,
+    "last_price": 1725.00,
+    "weight": "per kg",
+    "category": "crustacean",
+    "image": "images/ulang.jpg"
   },
   {
     "name": "Yellow Fin",
-    "tagalog_name": "Yellowfin",
+    "tagalog_name": "Yellow Fin",
     "english_name": "Yellowfin Tuna",
     "scientific_name": "Thunnus albacares",
-    "description": "Tuna species known for its mild flavor and firm texture, great for sashimi, steak, or sinigang."}
+    "description": "A popular tuna species with lean meat, ideal for sashimi, steaks, and local 'inihaw na tuna'.",
+    "price": 625.00,
+    "last_price": 615.00,
+    "weight": "per kg",
+    "category": "fish",
+    "image": "images/yellow-fin.jpg"}
 ]
