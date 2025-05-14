@@ -225,7 +225,15 @@
     "image": "images/maya-maya.jpg"
   },
   {
-  
+   "name": "Pampano",
+    "tagalog_name": "Pampano",
+    "english_name": "Pomfret",
+    "scientific_name": "Trachinotus blochii",
+    "description": "A premium fish with rich flavor and delicate flesh, commonly grilled or baked whole.",
+    "price": 725.00,
+    "last_price": 715.00,
+    "weight": "per kg",
+    "category": "fish",
     "image": "images/pampano.jpg"
   },
   {
